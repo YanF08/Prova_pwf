@@ -1,0 +1,31 @@
+#navegacao {
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+section {
+    padding: 10px;
+}
+
+.col-3 {
+    border: 1px solid black;
+}
+
+.texto {
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+img {
+    margin: auto;
+    display: block;
+    border-radius: 15px;
+}
+
+.main {
+    border: 1px solid black;
+    padding: 2px;
+    margin: 5px;
+}
